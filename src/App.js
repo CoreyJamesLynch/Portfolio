@@ -20,7 +20,6 @@ const App = () => {
           <Route path="/schedule" component={ArticleComponent} />¸
         </Switch>
       </Router>
-      <h1>Hello World</h1>
     </>
   );
 };
